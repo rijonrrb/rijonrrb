@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  <br>
-
+</div>
 <h1 align="center">I'm Sakib</h1>
 <h3 align="center">A passionate Full Stack developer from Dhaka, Bangladesh</h3><br><br>
 
@@ -33,14 +32,10 @@
 </p>
 <br><br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dvlprrijon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dvlprrijon" /></a></p><br><br>
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
-
 <br/>  
 <div align="center">
             <a href="https://www.buymeacoffee.com/dvlprrijon" target="_blank" style="display: inline-block;">
@@ -50,7 +45,6 @@
                 />
             </a></div>
 <br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijonrrb&show_icons=true&locale=en&layout=compact" alt="rijonrrb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijonrrb&show_icons=true&locale=en" alt="rijonrrb" /></p>
