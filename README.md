@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>
 <h1 align="center">I'm Sakib</h1>
 <h3 align="center">A passionate Full Stack developer from Dhaka, Bangladesh</h3><br><br>
@@ -45,7 +45,7 @@
                 />
             </a></div>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijonrrb&show_icons=true&locale=en&layout=compact" alt="rijonrrb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijonrrb&show_icons=true&locale=en&layout=compact" alt="rijonrrb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijonrrb&show_icons=true&locale=en" alt="rijonrrb" /></p>
 
