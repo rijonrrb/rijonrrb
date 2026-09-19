@@ -2,59 +2,79 @@
 
 # Md. Sakib Hossain Rijon
 
-### Software Engineer · Full-Stack & AI-Integrated SaaS Developer
+### Software Engineer · Full-Stack, AI & API Integration Specialist
 
-I build secure, scalable web products that connect AI workflows, payments, and third-party services to solve real operational problems.
+I build scalable web products and operational platforms—combining Laravel/PHP backends, AI-enabled workflows, payment systems, and dependable third-party integrations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rijonrrb.github.io/Portfolio_Website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devrijonn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sakib-hossain-rijon-005471246)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvlpr.rijon@gmail.com)
 
-![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Narayanganj%2C%20Bangladesh-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-Software%20Engineer%20since%202023-198754?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/rijonrrb?label=Followers&style=flat-square&color=1F6FEB)
 ![Profile views](https://komarev.com/ghpvc/?username=rijonrrb&label=Profile%20views&color=1F6FEB&style=flat-square)
 
 </div>
 
-## 👋 Professional summary
+## 👋 About me
 
-I am a full-stack software engineer with hands-on experience delivering AI-enabled SaaS products, business platforms, and API-driven applications. My work spans backend architecture, responsive interfaces, payment flows, role-based access, multi-tenancy, document intelligence, and reliable third-party integrations.
+I am a full-stack software engineer experienced in e-commerce, SaaS, fintech, property management, education, security monitoring, transport, and AI-enabled document platforms. I take features from requirements through architecture, implementation, testing, deployment, and ongoing optimization.
 
-I care about more than connecting APIs: I design the workflows, validations, background processing, and user experience that make those integrations dependable in production.
+My strengths are building robust Laravel applications, designing REST APIs, integrating complex external services, and making operational workflows simpler for real users.
 
-## 💼 Experience
+## 💼 Professional experience
 
-- **Software Engineer — Arobil IT Ltd.** · Aug 2023–Present  
-  Building scalable web applications, REST APIs, third-party integrations, business systems, and AI-assisted SaaS features.
+- **Software Engineer — Arobil IT Ltd.** · *Aug 2023–Present*  
+  Developing and maintaining dynamic web applications, REST APIs, responsive interfaces, integrations, and scalable business systems.
 
-- **Full-Stack Developer — Vyper Solutions** · Oct 2024–Mar 2025  
-  Delivered full-stack web features and backend integrations.
+- **Full-Stack Developer (Contractual) — Vyper Solutions** · *Mar 2023–Jun 2023*  
+  Built Python/Django web applications and REST APIs, customized ISP portals with Django Sonar, and developed WordPress plugins.
 
-- **IT Engineer Intern — Abdul Monem Limited** · Sep 2022–Jan 2023  
-  Supported IT operations and contributed to an inventory management system.
+- **IT Engineer Intern — Abdul Monem Limited** · *Sep 2022–Jan 2023*  
+  Provided systems/network support and developed an internal Laravel inventory management system.
 
-## 🤖 AI, document intelligence & SaaS
+## 🤖 AI, SaaS & document intelligence
 
-- AI-assisted document workflows: **OCR, structured extraction, indexed retrieval, evidence-based assistants, and workpaper/document generation**
-- Multi-tenant SaaS architecture: **subscriptions, plan limits, usage tracking, team seats, roles, and secure tenant separation**
-- Complex operational platforms: **email-to-document processing, document routing, workflow automation, dashboards, and audit-focused products**
-- Performance and reliability: **queues, caching, chunked uploads, validation rules, error logging, and background processing**
+- AI-enabled workflows using **GPT, Claude, Gemini, and Ollama**
+- Document intelligence: **OCR, structured data extraction, indexed retrieval, evidence-based AI assistants, routing, and generated workpapers**
+- Multi-tenant SaaS: **tenant isolation, subscriptions, usage limits, team roles, invitations, billing, and audit trails**
+- Production engineering: **queues, caching, chunked uploads, background processing, validation, logging, and performance optimization**
 
-## 💳 Payments, financial flows & commerce
+## 💳 Payments, APIs & connected systems
 
-- Payment gateway integrations: **Stripe, PayPal, SSLCommerz, aamarPay, PayFast, Razorpay, PhonePe, and JazzCash**
-- Payment features: **checkout, payment verification, subscriptions, usage billing, invoices, refunds/cancellations, and currency-aware flows**
-- Commerce systems: **multi-vendor e-commerce, inventory management, order processing, shipping/courier integrations, and customer portals**
-- Blockchain integration: experience with **Bitcoin transaction flows using BlockCypher**
+- Payment integration experience: **Stripe, PayPal, SSLCommerz, aamarPay, Paddle, Moneris, PayFast, Razorpay, PhonePe, and JazzCash**
+- Financial workflows: **checkout, payment verification, subscriptions, invoices, cancellations/refunds, and currency-aware payment flows**
+- API expertise: **REST, OAuth 2.0, webhooks, authentication, pagination, rate limits, error handling, and API documentation**
+- Third-party integrations: **Microsoft Graph, OneDrive, Azure Document Intelligence, Billbee, BlockCypher, Firebase, Calendly, SMS/email, and courier APIs**
+- Logistics providers: **Pathao, Steadfast, UPS, and Canada Post**
+- Real-time product experience with **WebRTC** for web calls and broadcast/podcast platforms
 
-## 🔌 API & third-party integration expertise
+## 🌟 Selected product portfolio
 
-- **REST APIs, OAuth 2.0, webhooks, API authentication, pagination, throttling, and error handling**
-- Microsoft Graph and OneDrive for **mailbox sync, shared-mailbox handling, and file routing**
-- Azure Document Intelligence for **document extraction and OCR**
-- Operational integrations including **Billbee, Firebase, SMS/email providers, Pathao, Steadfast, UPS, Canada Post, and Calendly**
-- Cloud and infrastructure exposure: **Azure, Google Cloud, Docker, Redis, Git, Linux, and Windows**
+**AI & document platforms**
+
+- [MaildocAI](https://test.maildocai.com/) — automated email management, OCR/indexing, document routing, and an AI assistant
+- [AIMateriality](https://test.aimateriality.com/) — audit-ready materiality workflow with AI assistance and workpapers
+
+**SaaS & operational systems**
+
+- [BDHousing](https://www.bdhousing.com/) — property management platform
+- [HEConnect](https://dc-heconnect.com/) — multi-tenant university management system
+- [RiskApp](https://risk-app.com/) — business risk management system
+- [Defcon-App](https://defcon-app.com/) — cyber-security alarm monitoring system
+- [TGA Grading](https://tgagrading.com/) — sports and TCG card grading workflow platform
+
+**Commerce, inventory & customer platforms**
+
+- [BuyWithMe](https://buywithme.shop/) — multi-vendor e-commerce platform
+- [Everisamting](https://everisamting.com/) — e-commerce website
+- [Skylil](https://skylil.com/) — inventory management system
+- [Vinitycard](https://vinitycard.com/), [Connectify.Cards](https://connectify.cards/), and [Taponlink](https://taponlink.com/) — digital business card platforms
+- [Enjoy City Tour](https://enjoycitytours.com/) — private transportation management system
+- [212audio](https://unavo.xyz/) — broadcast, podcast, and real-time web-call management system
+- [Cuts Without Borders](https://cutswithoutborders.com/) — barbershop management system
+- [TCLI Library](https://tclilibrary.com/) — library management system
 
 ## 🛠️ Technology stack
 
@@ -82,7 +102,7 @@ I care about more than connecting APIs: I design the workflows, validations, bac
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Tools, cloud & delivery**
+**Tools, cloud & collaboration**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,13 +112,22 @@ I care about more than connecting APIs: I design the workflows, validations, bac
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
+## 🏅 Education & recognition
+
+- **B.Sc. in Computer Science & Engineering**, American International University-Bangladesh (AIUB) · CGPA **3.78**
+- **Certificate with Honors** — Duke University, *Programming Foundations with JavaScript, HTML and CSS*
+- Participant — Cisco Networking Academy Skills Competition Bangladesh
+- Participant — Youth Speak Forum 2019, powered by AIESEC
 
 ## 🚀 Current focus
 
-- Building reliable **AI-enabled SaaS and document intelligence** products
-- Improving scalable Laravel architecture, API design, and background processing
-- Deepening Python/Django capabilities alongside modern backend and cloud practices
-- Open to collaborating on meaningful SaaS, automation, e-commerce, and AI workflow projects
+- Delivering AI-enabled SaaS and document intelligence platforms
+- Building secure payment, integration, and workflow automation features
+- Expanding modern backend architecture, cloud, and system-design depth
+- Open to collaborating on meaningful SaaS, e-commerce, automation, fintech, and AI workflow products
 
 ## 📈 GitHub activity
 
@@ -110,7 +139,7 @@ I care about more than connecting APIs: I design the workflows, validations, bac
 
 ### Let’s build something valuable
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rijonrrb.github.io-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://rijonrrb.github.io/Portfolio_Website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devrijonn.com-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://devrijonn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Sakib%20Hossain%20Rijon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sakib-hossain-rijon-005471246)
 [![Email](https://img.shields.io/badge/Email-dvlpr.rijon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dvlpr.rijon@gmail.com)
 
