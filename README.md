@@ -117,7 +117,7 @@ My strengths are building robust Laravel applications, designing REST APIs, inte
 
 ## 🏅 Education & recognition
 
-- **B.Sc. in Computer Science & Engineering**, American International University-Bangladesh (AIUB) · CGPA **3.78**
+- **B.Sc. in Computer Science & Engineering**, American International University-Bangladesh (AIUB)
 - **Certificate with Honors** — Duke University, *Programming Foundations with JavaScript, HTML and CSS*
 - Participant — Cisco Networking Academy Skills Competition Bangladesh
 - Participant — Youth Speak Forum 2019, powered by AIESEC
