@@ -200,15 +200,15 @@ Icons first, with labels for quick scanning. These technologies span professiona
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijonrrb&hide_border=true&border_radius=0&background=0A0A0A&ring=F5C518&fire=F5C518&currStreakNum=F5C518&sideNums=FFFFFF&currStreakLabel=F5C518&sideLabels=FFFFFF&dates=B8B8B8&stroke=454545" alt="GitHub activity — total contributions, current streak, and longest streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijonrrb&hide_border=true&border_radius=0&background=FFFFFF&ring=F5C518&fire=FF9F1C&currStreakNum=D99000&sideNums=D99000&currStreakLabel=B87800&sideLabels=B87800&dates=737373&stroke=E5E5E5" alt="GitHub activity — total contributions, current streak, and longest streak" />
 </p>
 
 <div align="center">
 
 ### Let’s build something valuable
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devrijonn.com-F5C518?style=flat-square&logo=googlechrome&logoColor=0A0A0A)](https://devrijonn.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Sakib%20Hossain%20Rijon-0A0A0A?style=flat-square&logo=linkedin&logoColor=F5C518)](https://linkedin.com/in/md-sakib-hossain-rijon-005471246)
-[![Email](https://img.shields.io/badge/Email-dvlpr.rijon%40gmail.com-FFFFFF?style=flat-square&logo=gmail&logoColor=0A0A0A)](mailto:dvlpr.rijon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devrijonn.com-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://devrijonn.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Sakib%20Hossain%20Rijon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sakib-hossain-rijon-005471246)
+[![Email](https://img.shields.io/badge/Email-dvlpr.rijon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dvlpr.rijon@gmail.com)
 
 </div>
