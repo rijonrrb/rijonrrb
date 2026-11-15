@@ -204,8 +204,8 @@ Icons first, with labels for quick scanning. These technologies span professiona
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rijonrrb&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B87800&text_color=525252&icon_color=F5C518&ring_color=F5C518&border_radius=0" alt="GitHub statistics for rijonrrb" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijonrrb&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=B87800&text_color=525252&border_radius=0" alt="Most used languages in public GitHub repositories" height="165" />
+  <img src="profile/stats.svg" alt="GitHub statistics for rijonrrb" height="165" />
+  <img src="profile/top-langs.svg" alt="Most used languages in public GitHub repositories" height="165" />
 </p>
 
 <p align="center"><sub>Language figures reflect public repository code, not proficiency.</sub></p>
