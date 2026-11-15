@@ -52,6 +52,20 @@ My strengths are building robust Laravel applications, designing REST APIs, inte
 
 ## 🌟 Selected product portfolio
 
+### Open-source & independent products
+
+- **[SecureStream Player](https://github.com/rijonrrb/SecureStream-Player)** · [Live demo](https://rijonrrb.github.io/SecureStream-Player/) — reusable TypeScript video player offering HLS streaming, compatible audio/subtitle tracks, flexible playback controls, and experimental direct-container playback.
+- **[NEXROOM](https://github.com/rijonrrb/NEXROOM)** · [Live beta](https://nexroom.devrijonn.com/) — browser-first real-time collaboration project with temporary rooms and working one-to-one WebRTC calls; messaging, screen sharing, and group collaboration are future goals.
+- **[SCREENROOM](https://github.com/rijonrrb/screenroom)** · [Live website](https://screenroom.devrijonn.com/) — full-stack movie and series catalog with content Studio, TMDB metadata integration, and SecureStream-based playback for authorized media.
+- **[Task Management Software](https://github.com/rijonrrb/Task-Management-Software)** — Laravel/Vue task organization, progress tracking, and career-path planning application. *In development.*
+
+### Recent client & business platforms
+
+- **[Fade Clips Barber](https://fadeclipsbarber.com/)** — barbershop POS and booking platform with appointments, walk-in checkout, staff commission workflows, and customer reviews.
+- **Elite Auto Manager** — Laravel-based garage and automotive service management project for customer records, workflows, and structured data imports. *In development; no public demo currently listed.*
+
+Projects are selected from my [portfolio](https://devrijonn.com/) and GitHub work. The list below also includes established business platforms across different industries.
+
 **AI & document platforms**
 
 - [MaildocAI](https://test.maildocai.com/) — automated email management, OCR/indexing, document routing, and an AI assistant
@@ -78,42 +92,87 @@ My strengths are building robust Laravel applications, designing REST APIs, inte
 
 ## 🛠️ Technology stack
 
-**Backend, AI workflows & databases**
+Icons first, with labels for quick scanning. These technologies span professional work, personal projects, and ongoing learning; **the final group is an expanding toolkit, not a claim of equal production experience**.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Backend & APIs
 
-**Frontend & programming languages**
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP logo" /><br/><sub><strong>PHP</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel logo" /><br/><sub><strong>Laravel</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python logo" /><br/><sub><strong>Python</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django logo" /><br/><sub><strong>Django</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js logo" /><br/><sub><strong>Node.js</strong></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js logo" /><br/><sub><strong>Express.js</strong></sub></td>
+</tr>
+</table>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Frontend & programming languages
 
-**Tools, cloud & collaboration**
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript logo" /><br/><sub><strong>JavaScript</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript logo" /><br/><sub><strong>TypeScript</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React logo" /><br/><sub><strong>React</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue.js logo" /><br/><sub><strong>Vue.js</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5 logo" /><br/><sub><strong>HTML5</strong></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3 logo" /><br/><sub><strong>CSS3</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS logo" /><br/><sub><strong>Tailwind CSS</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap logo" /><br/><sub><strong>Bootstrap</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C logo" /><br/><sub><strong>C</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++ logo" /><br/><sub><strong>C++</strong></sub></td>
+</tr>
+</table>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+### Databases & caching
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL logo" /><br/><sub><strong>MySQL</strong></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server logo" /><br/><sub><strong>Microsoft SQL Server</strong></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL logo" /><br/><sub><strong>Oracle SQL</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis logo" /><br/><sub><strong>Redis</strong></sub></td>
+</tr>
+</table>
+
+### Cloud, tooling & delivery
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker logo" /><br/><sub><strong>Docker</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git logo" /><br/><sub><strong>Git</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub logo" /><br/><sub><strong>GitHub</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions logo" /><br/><sub><strong>GitHub Actions</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Microsoft Azure logo" /><br/><sub><strong>Microsoft Azure</strong></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud logo" /><br/><sub><strong>Google Cloud</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase logo" /><br/><sub><strong>Firebase</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" height="48" alt="Cloudflare logo" /><br/><sub><strong>Cloudflare</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux logo" /><br/><sub><strong>Linux</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman logo" /><br/><sub><strong>Postman</strong></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" height="48" alt="WordPress logo" /><br/><sub><strong>WordPress</strong></sub></td>
+</tr>
+</table>
+
+### Recently learning & expanding
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js logo" /><br/><sub><strong>Next.js</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="48" height="48" alt="NestJS logo" /><br/><sub><strong>NestJS</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL logo" /><br/><sub><strong>PostgreSQL</strong></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB logo" /><br/><sub><strong>MongoDB</strong></sub></td>
+</tr>
+</table>
+
+**Also working with:** REST APIs, OAuth 2.0, webhooks, payment integrations, WebRTC, HLS streaming, media storage and signed URLs, CI/CD pipelines, test automation, and performance optimization.
 
 ## 🏅 Education & recognition
 
@@ -122,12 +181,21 @@ My strengths are building robust Laravel applications, designing REST APIs, inte
 - Participant — Cisco Networking Academy Skills Competition Bangladesh
 - Participant — Youth Speak Forum 2019, powered by AIESEC
 
+## 🧪 Recently built & learned
+
+- **Media engineering:** TypeScript libraries, adaptive HLS playback, subtitle/audio track handling, browser compatibility, and reusable player interfaces through SecureStream Player.
+- **Real-time communication:** WebRTC calling, WebSocket signaling, temporary rooms, device permissions, and reconnection workflows through NEXROOM.
+- **Full-stack media platforms:** content-management APIs, movie/series data models, metadata integration, and protected media-source access through SCREENROOM.
+- **Developer workflows:** GitHub Actions CI/CD, automated testing and deployment, version-control collaboration, and Docker fundamentals.
+- **Modern web & data:** stronger TypeScript and Node.js skills; currently expanding into Next.js, NestJS, PostgreSQL, and MongoDB.
+
 ## 🚀 Current focus
 
-- Delivering AI-enabled SaaS and document intelligence platforms
-- Building secure payment, integration, and workflow automation features
-- Expanding modern backend architecture, cloud, and system-design depth
-- Open to collaborating on meaningful SaaS, e-commerce, automation, fintech, and AI workflow products
+- **AI-assisted software development:** experimenting with local AI models, coding assistants, multi-agent collaboration, and turning new ideas into useful developer tools.
+- **Open-source engineering:** evolving SecureStream Player and NEXROOM with an emphasis on playback, real-time UX, accessibility, and cross-browser reliability.
+- **Production-minded SaaS development:** improving business platforms, booking/POS workflows, media catalogs, and API integrations with careful attention to security, quality, and performance.
+- **Modern architecture & delivery:** TypeScript, Node.js, Next.js/NestJS learning, PostgreSQL/MongoDB exploration, Docker, and maintainable CI/CD pipelines.
+- **Practical problem-solving:** building dependable systems that reduce friction for clients and end users.
 
 ## 📈 GitHub activity
 
