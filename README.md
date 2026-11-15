@@ -133,7 +133,7 @@ Icons first, with labels for quick scanning. These technologies span professiona
 <table>
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL logo" /><br/><sub><strong>MySQL</strong></sub></td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server logo" /><br/><sub><strong>Microsoft SQL Server</strong></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server logo" /><br/><sub><strong>MS SQL Server</strong></sub></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL logo" /><br/><sub><strong>Oracle SQL</strong></sub></td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis logo" /><br/><sub><strong>Redis</strong></sub></td>
 </tr>
