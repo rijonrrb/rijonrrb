@@ -203,6 +203,13 @@ Icons first, with labels for quick scanning. These technologies span professiona
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijonrrb&hide_border=true&border_radius=0&background=FFFFFF&ring=F5C518&fire=FF9F1C&currStreakNum=D99000&sideNums=D99000&currStreakLabel=B87800&sideLabels=B87800&dates=737373&stroke=E5E5E5" alt="GitHub activity — total contributions, current streak, and longest streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rijonrrb&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B87800&text_color=525252&icon_color=F5C518&ring_color=F5C518&border_radius=0" alt="GitHub statistics for rijonrrb" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijonrrb&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=B87800&text_color=525252&border_radius=0" alt="Most used languages in public GitHub repositories" height="165" />
+</p>
+
+<p align="center"><sub>Language figures reflect public repository code, not proficiency.</sub></p>
+
 <div align="center">
 
 ### Let’s build something valuable
